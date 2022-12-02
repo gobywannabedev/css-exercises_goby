@@ -1,0 +1,21 @@
+.p1, .p5{
+    background-color: pink;
+}
+
+.p3{
+    font-size: 1.5em;
+    background-color: pink;
+
+}
+
+#div2{
+    color:blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+}
+#div4{
+    background-color: lightgreen;
+    font-size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
